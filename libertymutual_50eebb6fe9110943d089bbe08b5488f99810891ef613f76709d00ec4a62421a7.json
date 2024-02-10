@@ -1,1 +1,1 @@
-{"vars": {"MYPLAYER": "Sn", "PLAYERS": "fn", "BABYLONJS": "e", "playing": "value_undefined", "MeshBuilder": "value_undefined", "CreateLines": "value_undefined", "mesh": "value_undefined", "yaw": "value_undefined", "pitch": "value_undefined", "x": "value_undefined", "y": "value_undefined", "z": "value_undefined"}}
+{"vars": {"MYPLAYER": "Sn", "PLAYERS": "fn", "BABYLONJS": "e", "playing": "Ed", "MeshBuilder": "$d", "CreateLines": "Nd", "mesh": "_d", "yaw": "Np", "pitch": "value_undefined", "x": "dp", "y": "pp", "z": "$p"}}
