@@ -1,1 +1,1 @@
-{"vars": {"MYPLAYER": "Ps", "PLAYERS": "fn", "playing": "GE", "mesh": "mE", "yaw": "cE", "pitch": "qE", "x": "lE", "y": "fE", "z": "_E", "SCENE": "on", "CULL": "Mt"}, "checksum": "a242ff0e9cd1a36caf6165ba0681dae35ed84842fc117c8fd52d051af4f1f813"}
+{"vars": {"PLAYERS": "fn", "playing": "GE", "mesh": "mE", "yaw": "cE", "pitch": "qE", "x": "lE", "y": "fE", "z": "_E", "SCENE": "on", "CULL": "Mt"}, "checksum": "a242ff0e9cd1a36caf6165ba0681dae35ed84842fc117c8fd52d051af4f1f813"}
