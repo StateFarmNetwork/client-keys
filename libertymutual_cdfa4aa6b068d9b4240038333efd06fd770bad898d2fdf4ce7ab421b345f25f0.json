@@ -1,1 +1,1 @@
-{"vars": {"PLAYERS": "fn", "playing": "value_undefined", "mesh": "value_undefined", "yaw": "value_undefined", "pitch": "value_undefined", "x": "value_undefined", "y": "value_undefined", "z": "value_undefined", "SCENE": "on", "CULL": "Mt"}, "checksum": "cdfa4aa6b068d9b4240038333efd06fd770bad898d2fdf4ce7ab421b345f25f0"}
+{"vars": {"PLAYERS": "fn", "playing": null, "mesh": null, "yaw": null, "pitch": null, "x": null, "y": null, "z": null, "SCENE": "on", "CULL": "Mt"}, "checksum": "cdfa4aa6b068d9b4240038333efd06fd770bad898d2fdf4ce7ab421b345f25f0"}
