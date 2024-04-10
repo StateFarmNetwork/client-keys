@@ -1,1 +1,1 @@
-{"vars": {"PLAYERS": "vn", "SCENE": "un", "render": "render", "_filterFunction": "di", "_insideFilterFunction": "e"}, "checksum": "5bfc3d5b34377dc15e13a28a61ecefa99b7236c7a5cf79f3346ae6957d9d4c1b"}
+{"vars": {"PLAYERS": "vn", "playing": "Tg", "mesh": "K", "yaw": "Pg", "pitch": "jg", "SCENE": "un", "bodyMesh": "uK", "USERDATA": "A", "CONTROLKEYS": "an", "hp": "sg", "render": "render", "_filterFunction": "di", "_insideFilterFunction": "e", "_update": "wK", "skybox": "o"}, "checksum": "5bfc3d5b34377dc15e13a28a61ecefa99b7236c7a5cf79f3346ae6957d9d4c1b"}
